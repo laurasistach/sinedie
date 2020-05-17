@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T17:28:13.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="LbeOspY8YMe9ZJwIKkxK" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-17T17:36:10.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MrZJ8SQmxDpGMqZAGfmE" version="13.1.2" type="github">
   <diagram id="QyLK_1G8izOVnMK4OfBK" name="Flow general B2B">
     <mxGraphModel dx="946" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
         <mxCell id="aOF3CNQLZm2d1WDA1n_z-67" value="&lt;div style=&quot;text-align: left&quot;&gt;Introduir aforament màxim local (AM)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="-145" width="260" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="aOF3CNQLZm2d1WDA1n_z-70" value="&lt;div style=&quot;text-align: left&quot;&gt;Introduir descripció local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="aOF3CNQLZm2d1WDA1n_z-70" value="&lt;div style=&quot;text-align: left&quot;&gt;Introduir descripció i tipus de local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="-190" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="aOF3CNQLZm2d1WDA1n_z-71" value="&lt;div style=&quot;text-align: left&quot;&gt;Introduir foto identificativa local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" parent="1" vertex="1">
@@ -271,7 +271,7 @@
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-7" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar aforament màxim local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="-342.5" width="260" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="TkilhRNAnEVEgLaQJ0GL-8" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar descripció local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TkilhRNAnEVEgLaQJ0GL-8" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar descripció i tipus local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="-387.5" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-9" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar&lt;span&gt;&amp;nbsp;foto identificativa local&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" vertex="1" parent="1">
