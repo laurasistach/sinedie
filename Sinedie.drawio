@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-17T17:36:10.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="MrZJ8SQmxDpGMqZAGfmE" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-17T18:00:37.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="IF7_R6gJnxE3RPBmPgNl" version="13.1.2" type="github">
   <diagram id="QyLK_1G8izOVnMK4OfBK" name="Flow general B2B">
     <mxGraphModel dx="946" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,9 +36,9 @@
         <mxCell id="_c1tW72TKpihIUh71Ftu-12" value="Registrar-se (mateixa pàgina de registre usuari)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aOF3CNQLZm2d1WDA1n_z-68" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=1.089;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aOF3CNQLZm2d1WDA1n_z-62" edge="1">
+        <mxCell id="aOF3CNQLZm2d1WDA1n_z-68" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aOF3CNQLZm2d1WDA1n_z-62" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500.1199999999999" y="-87.99749999999995" as="targetPoint" />
+            <mxPoint x="500" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aOF3CNQLZm2d1WDA1n_z-62" value="Pàgina Configuració" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -266,19 +266,19 @@
           <mxGeometry x="370" y="-212.5" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-6" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar percentatge possible d&#39;aforament&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-320" width="260" height="22.5" as="geometry" />
+          <mxGeometry x="370" y="-340.25" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-7" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar aforament màxim local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-342.5" width="260" height="22.5" as="geometry" />
+          <mxGeometry x="370" y="-362.75" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-8" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar descripció i tipus local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-387.5" width="260" height="22.5" as="geometry" />
+          <mxGeometry x="370" y="-407.75" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-9" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar&lt;span&gt;&amp;nbsp;foto identificativa local&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-365" width="260" height="22.5" as="geometry" />
+          <mxGeometry x="370" y="-385.25" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-10" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar nom local&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-410" width="260" height="22.5" as="geometry" />
+          <mxGeometry x="370" y="-430.25" width="260" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -301,6 +301,12 @@
         </mxCell>
         <mxCell id="TkilhRNAnEVEgLaQJ0GL-25" value="&lt;div style=&quot;text-align: left&quot;&gt;A = AM*%M&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="-130" width="80" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TkilhRNAnEVEgLaQJ0GL-29" value="&lt;div style=&quot;text-align: left&quot;&gt;Introduir ubicació de l&#39;aforament&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-100" width="260" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TkilhRNAnEVEgLaQJ0GL-35" value="&lt;div style=&quot;text-align: left&quot;&gt;Editar ubicació&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-318" width="260" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
