@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T20:52:27.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="Z__nILmYQWY-0kmVbYqb" version="13.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-28T20:53:20.233Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="IWR4OFmooM6mfB7BX2zc" version="13.3.5" type="github" pages="2">
   <diagram id="QyLK_1G8izOVnMK4OfBK" name="Flow general B2B">
     <mxGraphModel dx="1351" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xvjuU5OqG2bT5GJd8oEb" name="Flow general B2C">
-    <mxGraphModel dx="2365" dy="2415" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="i2RtokQAjqtKmHnBPMio-0" />
         <mxCell id="i2RtokQAjqtKmHnBPMio-1" parent="i2RtokQAjqtKmHnBPMio-0" />
@@ -619,6 +619,9 @@
         </mxCell>
         <mxCell id="EFPLjEyMqgK608NghPB8-21" value="El client FA CUA al moment i espera a ser atès" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="i2RtokQAjqtKmHnBPMio-1">
           <mxGeometry x="1726" y="105" width="142" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zFdExZ7sPz8bNGersGNm-0" value="Laura: ELIMINARIA AQUESTA OPCIÓ" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="i2RtokQAjqtKmHnBPMio-1">
+          <mxGeometry x="1810" y="141" width="142" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
