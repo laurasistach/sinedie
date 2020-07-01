@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-01T17:30:10.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ZcyN3XMtrNvNVrwn-XQo" version="13.3.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-07-01T17:43:36.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="qrfmPUjLkyomNKs10x1q" version="13.3.5" type="github" pages="3">
   <diagram id="QyLK_1G8izOVnMK4OfBK" name="Flow general B2B">
-    <mxGraphModel dx="788" dy="1338" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="1723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -725,6 +725,12 @@
         </mxCell>
         <mxCell id="EU8D0fLNFk0rMvYVfewp-29" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jnHKM8N5s7mZcZCpKSR3-1">
           <mxGeometry x="310" y="465" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VeaZP9IG8wvssfGIkLFl-0" value="Sí" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jnHKM8N5s7mZcZCpKSR3-1">
+          <mxGeometry x="-33" y="261" width="21" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="VeaZP9IG8wvssfGIkLFl-1" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="jnHKM8N5s7mZcZCpKSR3-1">
+          <mxGeometry x="-89" y="316.5" width="25" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
